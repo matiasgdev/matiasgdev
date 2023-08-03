@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello folks! 👋 I grew up and live in Argentina :argentina: 
 
-<!--
-**matiasgdev/matiasgdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  You can found:
+</br>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="48" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  and I also some about... 
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="18" />
+</p>
+
+
+#### My fact -> *never stop learning* ⚡ 
+ 
