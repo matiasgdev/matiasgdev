@@ -15,6 +15,8 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="18" />
 </p>
 
+Only personal projects here! 🤓
 
-#### My fact -> *never stop learning* ⚡ 
+#### My fact: 
+- *never stop learning* ⚡ 
  
