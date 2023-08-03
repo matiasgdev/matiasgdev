@@ -1,7 +1,9 @@
-### Hello folks! 👋 I grew up and live in Argentina :argentina: 
+# Hello folks! 👋 I'm software developer that grew up and live in  :argentina: 
 
--  You can found:
+Javascript fanatic ❣ | Only personal projects changes here! 🤓
 </br>
+
+Stack?
 
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" />
@@ -11,12 +13,10 @@
 </p>
 
 <p align="left">
-  and I also some about... 
+  and maybe  
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" width="18" />
 </p>
 
-Only personal projects here! 🤓
-
-#### My fact: 
+## My facts: 
 - *never stop learning* ⚡ 
  
