@@ -1,6 +1,6 @@
-# Hello folks! 👋 I'm software developer that grew up and live in  :argentina: 
+# Hello folks!
 
-Javascript fanatic ❣ | Only personal projects changes here! 🤓
+Javascript fanatic ❣ | Only personal projects changes here!
 
 ### My facts: *never stop learning* ⚡ 
  
